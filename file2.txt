@@ -1,2 +1,4 @@
 this is file 2
 hello i am varun
+
+this is new line
